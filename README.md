@@ -5,6 +5,6 @@
 - 📫 How to reach me khushbooc787@gmail.com
 
 <!---
-khushboo-singla/khushboo-singla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+khushboo-chauddhary/khushboo-chauddhary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->

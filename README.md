@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @khushboo-singla
+- 👋 Hi, I’m @khushboo-chauddhary
 - 👀 I’m interested in Image Processing and Deep Learning
 - 🌱 I’m currently learning Generative Adversarial Networks
 - 💞️ I’m looking to collaborate on ...
